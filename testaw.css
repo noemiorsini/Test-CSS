@@ -6,13 +6,14 @@ div#controlers1 {
     width: 100%;
 }
 
-.awt-vis-controls-csvFilter .awt-csvFilter-button {
-    border: 1px solid rgba(0, 0, 0, 0.1);
-    background-color: rgba(0, 0, 0, 0.009);
-    color: #444;
-    display: flex;
-    padding: 25px 25px !important;
-    vertical-align: middle;
+.awt-vis-controls-csvFilter .awt-csvFilter-label {
+    padding-right: 4px;
+    margin-right: auto;
+    padding: 10px;
+    flex: auto;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
 }
 
 .google-visualization-table-table .gradient, .google-visualization-table-div-page .gradient {
