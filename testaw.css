@@ -8,6 +8,6 @@ div#controlers1 {
 
 .google-visualization-table-table .gradient, .google-visualization-table-div-page .gradient {
     background: #007bb9!important;
-    color: white;
-    font-size: 50px;
+    color: red;
+    font-size: 14px;
 }
