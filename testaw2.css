@@ -20,6 +20,8 @@ div#controlers1 {
     padding: 15px 15px !important;
     vertical-align: middle;
 }
+
 .at-layout-horizontal {
-    display: block;
+    display: block !important;
+    flex-direction: none;
 }
