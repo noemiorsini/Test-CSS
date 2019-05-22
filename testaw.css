@@ -9,7 +9,7 @@ div#controlers1 {
 .awt-vis-controls-csvFilter .awt-csvFilter-label {
     padding-right: 4px;
     margin-right: auto;
-    padding: 10px;
+    padding: 10px !important;
     flex: auto;
     white-space: nowrap;
     text-overflow: ellipsis;
