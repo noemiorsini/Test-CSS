@@ -16,6 +16,15 @@ div#controlers1 {
     overflow: hidden;
 }
 
+.awt-vis-controls-csvFilter .awt-csvFilter-button {
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    background-color: white;
+    color: #444;
+    display: flex;
+    padding: 15px 15px !important;
+    vertical-align: middle;
+}
+
 .google-visualization-table-table .gradient, .google-visualization-table-div-page .gradient {
     background: #007bb9!important;
     color: white;
