@@ -24,3 +24,20 @@ div#controlers1 {
 .at-layout-horizontal {
     display: block !important;
 }
+
+.at-action-menu-icon>.at-action-menu-trigger>.at-svg-icon {
+    display: none !important;
+}
+
+.at-action-menu {
+    margin: 0!important;
+    user-select: none;
+    display: none !important;
+}
+
+div#controlers2 {
+    width: 50% !important;
+}
+
+div#controlers3 {
+    width: 48% !important;
